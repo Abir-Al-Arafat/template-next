@@ -32,7 +32,7 @@ export function Navbar({
   brandName = "TemplateNext",
   items = defaultNavItems,
   ctaLabel = "Get Started",
-  ctaHref = "/signup",
+  ctaHref = "/register",
   className,
   ...props
 }: NavbarProps) {
